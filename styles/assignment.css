@@ -64,4 +64,33 @@ header .header-bgi{height: 900px;
                                 font-family: 'Open Sans', sans-serif;
                                 font-family: 'Work Sans', sans-serif;
                                 box-shadow: 7px 7px 5px rgba(9, 0, 0, 
-                                0.415);}
+                                0.415);} 
+
+                       /* failure years content styles */ 
+
+.failure-year{             display:flex;
+                           margin-top: 150px;
+                           margin-left: 200px;
+            }
+
+.failure-description{      margin-top: 100px; 
+                           margin-left: 260px;  
+                           margin-right: 340px;   } 
+
+.failure-title{            font-weight: 800;
+                           font-size: 60px;
+                           font-family: 'Open Sans', sans-serif;
+                           font-family: 'Work Sans', sans-serif;} 
+
+.failure-reason{           font-family: 'Open Sans', sans-serif;
+                           font-family: 'Work Sans', sans-serif;color: 
+                                        #444343; 
+                                    }
+                                        
+.failure-example{          font-family: 'Open Sans', sans-serif;
+                           font-family: 'Work Sans', sans-serif;color: 
+                                        #444343;}
+
+span{                      color:rgb(8, 248,8);
+                             font-size: 20px;}
+
