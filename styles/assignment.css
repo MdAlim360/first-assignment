@@ -1,7 +1,8 @@
 header .header-bgi{height: 900px; 
                          background-image: 
                              url(../styles/images/banner/banner3.png); 
-                 background-repeat: no-repeat;background-size: cover;} 
+                 background-repeat: no-repeat; 
+                 background-size: cover;} 
 
                  
 
@@ -141,8 +142,40 @@ h3{                         font-weight: 500;
                         background-repeat: no-repeat;
                         background-size: cover;   
                         height: 400px;
-                        width: 1440px; margin:200px 200px; 
-       }
+                        width: 1440px; margin:200px 200px;  
+  }
+
+  .gradiant-title{       font-weight: 700;
+                         font-size: 45px;
+                         color: white;
+                         margin-top: 90px; 
+                         margin-left: 100px;
+                         position: absolute;
+                         width: 459px; 
+                         padding-bottom: 400px;
+                         font-family: 'Open Sans', sans-serif;
+                         font-family: 'Work Sans', sans- 
+                        }  
+
+
+    .gradiant-btn{       margin-bottom: 00px;
+                         margin-top: 250px;
+                         margin-left: 100px; 
+                         border: 1px solid white; 
+                         width: 170px;height: 70px;
+                         font-weight: 600;
+                         font-size: 20px;
+                         font-family: 'Open Sans', sans-serif;
+                         font-family: 'Work Sans', sans-;
+                         border-radius: 10px;
+                         color: rgb(57, 120, 238); 
+                                box-shadow: 7px 7px 5px rgba(9, 0, 0, 
+                                                                    0.415) 
+             
+                        
+                        }
+
+
                     /* footer styles */ 
 
 .footer-contact{background-color: black; 
