@@ -1,7 +1,9 @@
-header .header-bgi{height: 900px;
+header .header-bgi{height: 900px; 
                          background-image: 
                              url(../styles/images/banner/banner3.png); 
                  background-repeat: no-repeat;background-size: cover;} 
+
+                 
 
 .header-title{text-align: right;} 
 .header-subtitle{ position: absolute; width: 525px;
