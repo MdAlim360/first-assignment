@@ -91,6 +91,43 @@ header .header-bgi{height: 900px;
                            font-family: 'Work Sans', sans-serif;color: 
                                         #444343;}
 
-span{                      color:rgb(8, 248,8);
+span{                        color:rgb(8, 248,8);
                              font-size: 20px;}
+
+                     /* plan for web learning styles */
+
+                  
+.plan-title{       text-align:center; 
+                   margin-top: 140px;
+                   font-weight: 800;
+                   font-size: 45px;
+                   font-family: 'Open Sans', sans-serif;
+                   font-family: 'Work Sans', sans-                   
+                   serif;                                            
+                }
+
+.web-learning{display: flex; align-items: center;justify-content: center;}
+
+.plan-styles{             margin-left: 100px; 
+                          margin-right: 100px; 
+                          margin-top: 30px; 
+                          font-family: 'Open Sans', sans-serif;
+                          font-family: 'Work Sans', sans-                   
+                          serif; 
+                        border:1px solid white;
+                        background-color:whitesmoke;
+                         box-shadow: 7px 7px 7px rgba(9, 0, 0, 
+                         0.415);padding-left: 7px; height: 350px; width: 600px;
+                    } 
+
+.plan-name{                  font-weight: 600;
+                             font-size: 30px; 
+                             color: #151414; 
+                            padding: 35px;} 
+
+h3{                         font-weight: 500;
+                             font-size: 20px;
+                             color: #737272; 
+                             padding-left: 50px; 
+                             }
 
